@@ -1,3 +1,12 @@
+Here sare some screenshots of the deployed project....
+
+
+![Screenshot (1156)](https://github.com/wittymindstech/home-stay-listing/assets/62170263/e043e689-7dc8-485e-b9a8-4cb9c2a8b518)
+
+
+![Screenshot (1157)](https://github.com/wittymindstech/home-stay-listing/assets/62170263/2c1a65a1-eebc-49cd-a203-929227f0267a)
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
